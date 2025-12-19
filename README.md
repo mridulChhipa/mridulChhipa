@@ -1,9 +1,9 @@
 <h1 align="center">Hi!👋, This is Mridul Chhipa</h1>
 <h3 align="center">Sophomore, IIT Delhi</h3>
 
-- I am an undergrad at IIT Delhi in the Department of Computer Science and Engineering. I've always been fascinated by the role of Mathematics in uncovering the intricacies of computing and its ability to solve complex problems. I'm open to working on projects that leverage the synergy between Computing and Mathematics to address real-world challenges.
+- I’m an undergraduate student in the Department of Computer Science and Engineering at IIT Delhi. I’ve always been curious about how mathematics shapes computing—from understanding algorithms to solving tough real-world problems. I enjoy working on projects where math and computer science come together to build clear, efficient, and practical solutions.
 
-- 💬 Other than the perennial overload of assignments and evaluations, feel free to hit me up for a quick chat or a deep ethical discussion! Contact me at my [LinkedIn](https://www.linkedin.com/in/mridul-chhipa-9761a12a9/) or mail me at mridulChhipa@gmail.com
+- 💬 Apart from the usual IIT load of assignments and exams, I’m always happy to chat—whether it’s a quick tech discussion, brainstorming ideas, or talking about the ethical side of technology. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mridul-chhipa-9761a12a9/) or mail me at mridulchhipa@gmail.com
 
 ![Mridul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mridulChhipa&show_icons=true&count_private=true&include_all_commits=true&hide=issues&theme=radical&rank_icon=github&cache_seconds=7200)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mridulChhipa&layout=compact&theme=radical)](https://github.com/mridulChhipa/github-readme-stats)
@@ -72,7 +72,7 @@
 <p>
 <div align="center">
   <a href="https://www.linkedin.com/in/mridul-chhipa-9761a12a9/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mridulChhipa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:mridulchhipa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.instagram.com/skullhead_m/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 </div>
 </p>
