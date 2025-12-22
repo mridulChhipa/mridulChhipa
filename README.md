@@ -4,11 +4,11 @@
 - I’m an undergraduate student in the Department of Computer Science and Engineering at IIT Delhi. I’m really interested in how mathematics helps us understand and build better computer systems—from algorithms to machine learning. I enjoy working on problems where solid theory meets real-world applications, especially projects that turn mathematical ideas into efficient and scalable solutions.
 
 - Apart from the usual IIT routine of assignments and exams, I’m always happy to have a conversation—whether it’s a quick technical chat, a deeper discussion about algorithms, or even broader ethical questions around technology. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mridul-chhipa-9761a12a9/) or mail me at mridulchhipa@gmail.com
+<!--
 
 ![Mridul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mridulChhipa&show_icons=true&count_private=true&include_all_commits=true&hide=issues&theme=radical&rank_icon=github&cache_seconds=7200)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mridulChhipa&layout=compact&theme=radical&exclude_repo=the-trust-gambit-app)](https://github.com/mridulChhipa/github-readme-stats)
 
-<!--
 ## Git Repositories
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mridulChhipa&theme=default&show_icons=true" />
